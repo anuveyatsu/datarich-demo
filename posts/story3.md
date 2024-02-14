@@ -11,6 +11,6 @@ In today's data-driven world, information flows ceaselessly, painting a vibrant 
 
 Below is a PowerBI dashboard rendered within an iframe element:
 
-<iframe src="https://app.powerbi.com/view?r=eyJrIjoiZTkxMjVlMjMtODhhNi00NTM5LTgzOGUtOThkNDEwMTAwY2FmIiwidCI6IjY5OWFjZTY3LWQyZTQtNGJjZC1iMzAzLWQyYmJlMmI5YmJmMSJ9" title="Birmingham Area and Ward Profiles" width=600></iframe>
+<iframe src="https://app.powerbi.com/view?r=eyJrIjoiZTkxMjVlMjMtODhhNi00NTM5LTgzOGUtOThkNDEwMTAwY2FmIiwidCI6IjY5OWFjZTY3LWQyZTQtNGJjZC1iMzAzLWQyYmJlMmI5YmJmMSJ9" title="Birmingham Area and Ward Profiles" width="600"></iframe>
 
 The end.
